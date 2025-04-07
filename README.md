@@ -34,20 +34,20 @@ To **complete a 15-hour 40-minute React course** by April 30 and build a strong 
 | Apr 14     | useEffect Cleanup, useRef                 |      |
 | Apr 15     | useRef Project, useMemo                   |      |
 | Apr 16     | useCallback, React.memo                   |      |
-| Apr 17     | Controlled Forms, Form Handling           | ✅     |
-| Apr 18     | To-Do App / CRUD                          | ✅     |
-| Apr 19     | React Router Basics                       | ✅     |
-| Apr 20     | Nested Routes, useParams                  | ✅     |
-| Apr 21     | useNavigate, Protected Routes             | ✅     |
-| Apr 22     | Context API                               | ✅     |
-| Apr 23     | useContext Deep Dive                      | ✅     |
-| Apr 24     | Redux Intro                               | ✅     |
-| Apr 25     | Store, Actions, Reducers                  | ✅     |
-| Apr 26     | React-Redux Setup                         | ✅     |
-| Apr 27     | Redux Project                             | ✅     |
-| Apr 28     | Deployment (Netlify/Vercel)               | ✅     |
-| Apr 29     | Folder Structure, Best Practices          | ✅     |
-| Apr 30     | Final Project Wrap-up & Review            | ✅     |
+| Apr 17     | Controlled Forms, Form Handling           |      |
+| Apr 18     | To-Do App / CRUD                          |      |
+| Apr 19     | React Router Basics                       |      |
+| Apr 20     | Nested Routes, useParams                  |      |
+| Apr 21     | useNavigate, Protected Routes             |      |
+| Apr 22     | Context API                               |      |
+| Apr 23     | useContext Deep Dive                      |      |
+| Apr 24     | Redux Intro                               |      |
+| Apr 25     | Store, Actions, Reducers                  |      |
+| Apr 26     | React-Redux Setup                         |      |
+| Apr 27     | Redux Project                             |      |
+| Apr 28     | Deployment (Netlify/Vercel)               |      |
+| Apr 29     | Folder Structure, Best Practices          |      |
+| Apr 30     | Final Project Wrap-up & Review            |      |
 
 ---
 
