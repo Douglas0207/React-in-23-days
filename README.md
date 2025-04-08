@@ -24,30 +24,30 @@ To **complete a 15-hour 40-minute React course** by April 30 and build a strong 
 
 | Date       | Topic Summary                             | Status |
 |------------|-------------------------------------------|--------|
-| Apr 07     | Intro, Setup, JSX                         |      |
-| Apr 08     | Functional Components, Props              |      |
-| Apr 09     | State, Event Handling                     |      |
-| Apr 10     | Conditional Rendering, Lists & Keys       |      |
-| Apr 11     | Props Drilling, useState                  |      |
-| Apr 12     | Lifting State, useEffect Intro            |      |
-| Apr 13     | useEffect Deep Dive                       |      |
-| Apr 14     | useEffect Cleanup, useRef                 |      |
-| Apr 15     | useRef Project, useMemo                   |      |
-| Apr 16     | useCallback, React.memo                   |      |
-| Apr 17     | Controlled Forms, Form Handling           |      |
-| Apr 18     | To-Do App / CRUD                          |      |
-| Apr 19     | React Router Basics                       |      |
-| Apr 20     | Nested Routes, useParams                  |      |
-| Apr 21     | useNavigate, Protected Routes             |      |
-| Apr 22     | Context API                               |      |
-| Apr 23     | useContext Deep Dive                      |      |
-| Apr 24     | Redux Intro                               |      |
-| Apr 25     | Store, Actions, Reducers                  |      |
-| Apr 26     | React-Redux Setup                         |      |
-| Apr 27     | Redux Project                             |      |
-| Apr 28     | Deployment (Netlify/Vercel)               |      |
-| Apr 29     | Folder Structure, Best Practices          |      |
-| Apr 30     | Final Project Wrap-up & Review            |      |
+| Apr 08     | Intro, Setup, JSX                         |      |
+| Apr 09     | Functional Components, Props              |      |
+| Apr 10     | State, Event Handling                     |      |
+| Apr 11     | Conditional Rendering, Lists & Keys       |      |
+| Apr 12     | Props Drilling, useState                  |      |
+| Apr 13     | Lifting State, useEffect Intro            |      |
+| Apr 14     | useEffect Deep Dive                       |      |
+| Apr 15     | useEffect Cleanup, useRef                 |      |
+| Apr 16     | useRef Project, useMemo                   |      |
+| Apr 17     | useCallback, React.memo                   |      |
+| Apr 18     | Controlled Forms, Form Handling           |      |
+| Apr 19     | To-Do App / CRUD                          |      |
+| Apr 20     | React Router Basics                       |      |
+| Apr 21     | Nested Routes, useParams                  |      |
+| Apr 22     | useNavigate, Protected Routes             |      |
+| Apr 23     | Context API                               |      |
+| Apr 24     | useContext Deep Dive                      |      |
+| Apr 25     | Redux Intro                               |      |
+| Apr 26     | Store, Actions, Reducers                  |      |
+| Apr 27     | React-Redux Setup                         |      |
+| Apr 28     | Redux Project                             |      |
+| Apr 29     | Deployment (Netlify/Vercel)               |      |
+| Apr 30     | Folder Structure, Best Practices          |      |
+| May 1      | Final Project Wrap-up & Review            |      |
 
 ---
 
