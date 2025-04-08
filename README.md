@@ -24,7 +24,7 @@ To **complete a 15-hour 40-minute React course** by April 30 and build a strong 
 
 | Date       | Topic Summary                             | Status |
 |------------|-------------------------------------------|--------|
-| Apr 08     | Intro, Setup, JSX                         |      |
+| Apr 08     | Intro, Setup, JSX                         |   ✅   |
 | Apr 09     | Functional Components, Props              |      |
 | Apr 10     | State, Event Handling                     |      |
 | Apr 11     | Conditional Rendering, Lists & Keys       |      |
