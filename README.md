@@ -1,84 +1,75 @@
-# 📅 Studying React Before April 30 🚀
+# ⭐ React Mastery – April 2025 Tracker
 
-Welcome to my React learning journey!  
-This repository tracks my daily progress as I master React by **April 30, 2025**, using a structured YouTube roadmap.
-
----
-
-## 🎯 Goal
-
-To **complete a 15-hour 40-minute React course** by April 30 and build a strong foundation for full-stack development.
+This repository documents my journey through a complete **React course (15h 40m)** from **April 10 to April 30, 2025**, with the goal of learning React fundamentals and project building — dedicating **~1 hour/day**.
 
 ---
 
-## 📘 Course Details
+## 📅 Daily Learning Plan
 
-- **Course**: [React in One Video | by Codevolution](https://www.youtube.com/watch?v=Uv7cKlZFXU8)
-- **Total Duration**: 15 hours 40 minutes (940 minutes)
-- **Start Date**: April 7, 2025
-- **End Date**: April 30, 2025
+> Tick the boxes `[x]` as you complete each part to track your progress!
 
 ---
 
-## 📆 Daily Progress Tracker
+### 🔹 Week 1: React Basics (April 10–14)
 
-| Date       | Topic Summary                             | Status |
-|------------|-------------------------------------------|--------|
-| Apr 08     | Intro, Setup, JSX                         |   ✅   |
-| Apr 09     | Functional Components, Props              |      |
-| Apr 10     | State, Event Handling                     |      |
-| Apr 11     | Conditional Rendering, Lists & Keys       |      |
-| Apr 12     | Props Drilling, useState                  |      |
-| Apr 13     | Lifting State, useEffect Intro            |      |
-| Apr 14     | useEffect Deep Dive                       |      |
-| Apr 15     | useEffect Cleanup, useRef                 |      |
-| Apr 16     | useRef Project, useMemo                   |      |
-| Apr 17     | useCallback, React.memo                   |      |
-| Apr 18     | Controlled Forms, Form Handling           |      |
-| Apr 19     | To-Do App / CRUD                          |      |
-| Apr 20     | React Router Basics                       |      |
-| Apr 21     | Nested Routes, useParams                  |      |
-| Apr 22     | useNavigate, Protected Routes             |      |
-| Apr 23     | Context API                               |      |
-| Apr 24     | useContext Deep Dive                      |      |
-| Apr 25     | Redux Intro                               |      |
-| Apr 26     | Store, Actions, Reducers                  |      |
-| Apr 27     | React-Redux Setup                         |      |
-| Apr 28     | Redux Project                             |      |
-| Apr 29     | Deployment (Netlify/Vercel)               |      |
-| Apr 30     | Folder Structure, Best Practices          |      |
-| May 1      | Final Project Wrap-up & Review            |      |
+#### ✅ Section 1 – React Basics (~2h 17m)
+- [ ] Course Introduction & Setup
+- [ ] React.createElement(), JSX, Composability, Declarative UI
+- [ ] ReactFacts Project (Navbar, Main Content, Styling)
+- [ ] Custom Components, Fragments, Parent/Child, Classes
+- [ ] Component Organization, Project Setup
+- [ ] Finalize ReactFacts + Section 1 Recap
 
 ---
 
-## 🧠 Why I'm Doing This
+### 🔹 Week 2: Travel Journal (April 15–19)
 
-I want to:
-
-- Build solid React fundamentals.
-- Be **GitHub active & consistent** every single day.
-- Prepare for full-stack development.
-- Show potential recruiters my learning streak and determination.
-
----
-
-## ✅ Outcome
-
-By the end of this month, I’ll be ready to:
-
-- Build React apps from scratch.
-- Use hooks, context, routing, and Redux confidently.
-- Deploy production-level React projects.
+#### ✅ Section 2 – Travel Journal (~2h 15m)
+- [ ] Travel Journal Setup: Header, Entry Component
+- [ ] Props, Destructuring, Static Assets
+- [ ] Array `.map()`, Rendering Components with props
+- [ ] key prop, Passing and Spreading Objects
+- [ ] Finalize Travel Journal + Section 2 Recap
 
 ---
 
-## 🔥 Let's Connect
+### 🔹 Week 3: Chef Claude (April 20–25)
 
-Feel free to follow my journey and reach out:
-
-- 💼 [LinkedIn](https://www.linkedin.com) (Add your profile)
-- 🌐 Portfolio (Coming soon!)
+#### ✅ Section 3 – Chef Claude (~5h 10m)
+- [ ] Header & Form Setup, Event Handling
+- [ ] Props vs State, useState, Updating State
+- [ ] Complex State (Arrays & Objects), Form Handling
+- [ ] Conditional Rendering, Child-to-Parent Communication
+- [ ] AI Recipe Challenge, Component Refactor
+- [ ] Finalize Chef Claude Project
 
 ---
 
-> **“Consistency is what transforms average into excellence.”**
+### 🔹 Week 4: Final Projects (April 26–30)
+
+#### ✅ Section 4 – Meme Generator (~2h)
+- [ ] useEffect(), Data Fetching, Meme State
+- [ ] scrollIntoView(), useEffect Cleanup
+
+#### ✅ Section 5 – Tenzies Game (~1.5h)
+- [ ] Game Logic, Dice State, Hold & Roll, Win Condition
+
+#### ✅ Section 6 – Assembly Endgame (~2h)
+- [ ] Word Guessing UI, Game Status Logic, Accessibility
+
+#### ✅ Bonus Section – VS Code Setup (~20m)
+- [ ] Helpful Extensions, React Developer Tools
+
+---
+
+## 🎯 Final Goal
+
+By April 30, I aim to:
+- Build real-world projects in React
+- Understand core concepts like components, props, state, and effects
+- Get comfortable using VS Code and dev tools with React
+- Lay a strong foundation to start building full stack projects using the MERN stack
+
+---
+
+> ✨ *Follow this repository to see my learning in action!*
