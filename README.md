@@ -11,29 +11,29 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
 
 ---
 
-| Date       | Progress | Topic Summary                                                   |
-|------------|----------|------------------------------------------------------------------|
-| April 10   | [x]       | Static Pages, First React Code, Vite Setup                     |
-| April 11   | [ ]       | JSX, Why React?, ReactFunFacts, Custom Components              |
-| April 12   | [ ]       | Parent/Child Props, Styling, Organizing Components             |
-| April 13   | [ ]       | Navbar + MainContent, Section 1 Recap                          |
-| April 14   | [ ]       | Travel Journal: Entry Component, Props                         |
-| April 15   | [ ]       | Reusable Components, Props Quiz, Destructuring, Practice       |
-| April 16   | [ ]       | Static Assets, Mapping, Keys, Spread Props                     |
-| April 17   | [ ]       | Section Recap + Chef Claude Header & Form                      |
-| April 18   | [ ]       | Event Listeners, useState Basics                               |
-| April 19   | [ ]       | Complex State (Arrays & Objects), Forms                        |
-| April 20   | [ ]       | Forms Practice, Conditional Rendering                          |
-| April 21   | [ ]       | State as Props, Conditional Challenge                          |
-| April 22   | [ ]       | SoundPad Challenge, Dynamic Styles                             |
-| April 23   | [ ]       | Shared State, Updating Arrays in State                         |
-| April 24   | [ ]       | API Calls, Final Challenges                                    |
-| April 25   | [ ]       | Meme Generator: Setup, Controlled Components                   |
-| April 26   | [ ]       | useEffect Deep Dive, Meme Feature Practice                     |
-| April 27   | [ ]       | Tenzies Game: Die Component, Game Logic                        |
-| April 28   | [ ]       | End Game Logic, New Game Reset                                 |
-| April 29   | [ ]       | Assembly Endgame Project, Accessibility Improvements           |
-| April 30   | [ ]       | Final Polish, Dev Tools, Wrap-up                               |
+## 🗓️ Daily Progress Tracker (April 10 – April 30)
+
+- [x] **April 10** – Static Pages, First React Code, Vite Setup  
+- [ ] **April 11** – JSX, Why React?, ReactFunFacts, Custom Components  
+- [ ] **April 12** – Parent/Child Props, Styling, Organizing Components  
+- [ ] **April 13** – Navbar + MainContent, Section 1 Recap  
+- [ ] **April 14** – Travel Journal: Entry Component, Props  
+- [ ] **April 15** – Reusable Components, Props Quiz, Destructuring, Practice  
+- [ ] **April 16** – Static Assets, Mapping, Keys, Spread Props  
+- [ ] **April 17** – Section Recap + Chef Claude Header & Form  
+- [ ] **April 18** – Event Listeners, useState Basics  
+- [ ] **April 19** – Complex State (Arrays & Objects), Forms  
+- [ ] **April 20** – Forms Practice, Conditional Rendering  
+- [ ] **April 21** – State as Props, Conditional Challenge  
+- [ ] **April 22** – SoundPad Challenge, Dynamic Styles  
+- [ ] **April 23** – Shared State, Updating Arrays in State  
+- [ ] **April 24** – API Calls, Final Challenges  
+- [ ] **April 25** – Meme Generator: Setup, Controlled Components  
+- [ ] **April 26** – useEffect Deep Dive, Meme Feature Practice  
+- [ ] **April 27** – Tenzies Game: Die Component, Game Logic  
+- [ ] **April 28** – End Game Logic, New Game Reset  
+- [ ] **April 29** – Assembly Endgame Project, Accessibility Improvements  
+- [ ] **April 30** – Final Polish, Dev Tools, Wrap-up  
 
 ---
 
@@ -82,4 +82,4 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
 
 ## 🔥 Let's gooo!
 
-Every `[x]` is a step closer to becoming a React pro. Feel free to follow along or fork this repo and build your own journey! 💻🚀
+Every `[x]` is a step closer to becoming a React pro. Feel free to follow along or fork this repo and build your own journey! 💻🚀is a step closer to becoming a React pro. Feel free to follow along or fork this repo and build your own journey! 💻🚀
