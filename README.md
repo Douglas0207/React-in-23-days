@@ -11,133 +11,75 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
 
 ---
 
-### 📅 Week 1 – React Basics
-
-#### 📌 April 10
-- [x] Intro, Setup with Vite
-- [x] JSX, React.createElement()
-- [x] Why React? Composable & Declarative
-
-#### 📌 April 11
-- [ ] ReactFacts Project - Markup & Styling
-- [ ] Pop Quiz
-- [ ] Custom Components
-
-#### 📌 April 12
-- [ ] Custom Components Challenge
-- [ ] Fragments
-- [ ] Parent/Child Components
-
-#### 📌 April 13
-- [ ] Styling with Classes
-- [ ] Organizing Components
-- [ ] Mental Outline of Project
-
-#### 📌 April 14
-- [ ] ReactFacts - Navbar, Main Content, Bullets
-- [ ] Background Image
-- [ ] Section 1 Recap
+| Date       | Progress | Topic Summary                                                   |
+|------------|----------|------------------------------------------------------------------|
+| April 10   | [x]       | Static Pages, First React Code, Vite Setup                     |
+| April 11   | [ ]       | JSX, Why React?, ReactFunFacts, Custom Components              |
+| April 12   | [ ]       | Parent/Child Props, Styling, Organizing Components             |
+| April 13   | [ ]       | Navbar + MainContent, Section 1 Recap                          |
+| April 14   | [ ]       | Travel Journal: Entry Component, Props                         |
+| April 15   | [ ]       | Reusable Components, Props Quiz, Destructuring, Practice       |
+| April 16   | [ ]       | Static Assets, Mapping, Keys, Spread Props                     |
+| April 17   | [ ]       | Section Recap + Chef Claude Header & Form                      |
+| April 18   | [ ]       | Event Listeners, useState Basics                               |
+| April 19   | [ ]       | Complex State (Arrays & Objects), Forms                        |
+| April 20   | [ ]       | Forms Practice, Conditional Rendering                          |
+| April 21   | [ ]       | State as Props, Conditional Challenge                          |
+| April 22   | [ ]       | SoundPad Challenge, Dynamic Styles                             |
+| April 23   | [ ]       | Shared State, Updating Arrays in State                         |
+| April 24   | [ ]       | API Calls, Final Challenges                                    |
+| April 25   | [ ]       | Meme Generator: Setup, Controlled Components                   |
+| April 26   | [ ]       | useEffect Deep Dive, Meme Feature Practice                     |
+| April 27   | [ ]       | Tenzies Game: Die Component, Game Logic                        |
+| April 28   | [ ]       | End Game Logic, New Game Reset                                 |
+| April 29   | [ ]       | Assembly Endgame Project, Accessibility Improvements           |
+| April 30   | [ ]       | Final Polish, Dev Tools, Wrap-up                               |
 
 ---
 
-### 📅 Week 2 – Travel Journal
+## 🎯 Goal
 
-#### 📌 April 15
-- [ ] Section 2 Intro
-- [ ] Header & Entry Component
-- [ ] Problem - Not Reusable
-
-#### 📌 April 16
-- [ ] Props, Destructuring, Prop Quiz
-- [ ] Non-string Props
-
-#### 📌 April 17
-- [ ] Import Static Assets
-- [ ] Pass Props to Entry
-
-#### 📌 April 18
-- [ ] Map(), Rendering Arrays
-- [ ] Map Quiz
-
-#### 📌 April 19
-- [ ] key prop
-- [ ] Object as Props, Spread Operator
-- [ ] Section 2 Recap
+- ⏳ **Timeline:** April 10 – April 30, 2025  
+- 📚 **Course Duration:** 15h 40m  
+- ⏰ **Daily Target:** ~45–50 mins  
+- 🧠 **Outcome:** Beginner to Confident React Developer  
+- 🛠️ **Projects:**  
+  - ReactFunFacts  
+  - Travel Journal  
+  - Chef Claude Recipe App  
+  - Meme Generator  
+  - Tenzies Dice Game  
+  - Assembly Endgame 🎮  
 
 ---
 
-### 📅 Week 3 – Chef Claude
+## 💡 Motivation
 
-#### 📌 April 20
-- [ ] Section 3 Intro
-- [ ] Header, Form, Event Listeners
-
-#### 📌 April 21
-- [ ] Props vs State, useState, State Practice
-
-#### 📌 April 22
-- [ ] Complex State: Arrays + Objects
-- [ ] Toggling State
-
-#### 📌 April 23
-- [ ] React Forms (input, textarea, checkbox)
-
-#### 📌 April 24
-- [ ] Form Submission, Form Refactor, `Object.fromEntries`
-
-#### 📌 April 25
-- [ ] Conditional Rendering
-- [ ] Passing State as Props, Lifting State
-- [ ] Refactor Components
+> _“Do not despise these small beginnings, for the Lord rejoices to see the work begin.”_  
+> — Zechariah 4:10 🙌
 
 ---
 
-### 📅 Week 4 – Final Projects
+## 🛠️ Tools Used
 
-#### 📌 April 26
-- [ ] API Signup, Get Recipe Challenge (AI)
-
-#### 📌 April 27
-- [ ] Meme Generator Intro, State & Inputs
-
-#### 📌 April 28
-- [ ] useEffect(), Fetch Meme Data, scrollIntoView()
-
-#### 📌 April 29
-- [ ] Tenzies Game: Logic, Roll/Hold Dice, New Game
-
-#### 📌 April 30
-- [ ] Assembly Endgame: Project Overview, Game Logic
-- [ ] Bonus Section: VS Code Extensions & Dev Tools
+- React (via Vite)
+- JSX / Props / useState / useEffect
+- Functional Components
+- CSS Styling
+- Controlled Forms
+- React Dev Tools
 
 ---
 
-## 🧠 Projects You'll Build
+## 🔗 Course Info
 
-- ✅ ReactFacts – Fundamentals Project
-- ✅ Travel Journal – Props & .map()
-- ✅ Chef Claude – useState, Forms, API call
-- ✅ Meme Generator – Fetching Data, useEffect
-- ✅ Tenzies Game – Logic, Conditional Rendering
-- ✅ Assembly Endgame – Final Game Project
+- 🎥 YouTube React Course  
+- ⏱️ 15h 40m  
+- 👨‍💻 Daily Commitment: 45–50 mins  
+- ✅ Deadline: **April 30, 2025**
 
 ---
 
-## 🛠️ Tools & Extensions
+## 🔥 Let's gooo!
 
-- React Developer Tools (Chrome)
-- ES7+ Snippets
-- Import Extension
-- ReacTree Extension
-- VS Code Setup for React
-
----
-
-## 🎯 Goal by April 30
-- Understand React core concepts
-- Build 6 React projects from scratch
-- Prepare for full stack (MERN) development
-
----
-
-> 📌 *Let's React daily to reach greatness. One day, one step at a time!*
+Every `[x]` is a step closer to becoming a React pro. Feel free to follow along or fork this repo and build your own journey! 💻🚀
