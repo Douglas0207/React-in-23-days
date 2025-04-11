@@ -20,7 +20,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - What is JSX?
   - Setting up Vite
   
-- [ ] **April 11**
+- [x] **April 11**
   - Why React?
   - Rendering Elements with JSX
   - Creating Custom Components
