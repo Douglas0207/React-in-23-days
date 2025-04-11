@@ -27,7 +27,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Composing Components into a Page
   - ReactFunFacts Project
   
-- [ ] **April 12**
+- [x] **April 12**
   - Passing Props
   - Props vs Children
   - Organizing Project Files
