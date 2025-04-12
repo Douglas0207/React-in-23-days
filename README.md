@@ -33,7 +33,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Organizing Project Files
   - Styling in React
   
-- [] **April 13**
+- [x] **April 13**
   - Creating Navbar Component
   - Creating MainContent Component
   - Recap of Section 1 Concepts
