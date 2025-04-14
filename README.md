@@ -38,7 +38,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Creating MainContent Component
   - Recap of Section 1 Concepts
   
-- [ ] **April 14**
+- [] **April 14**
   - Travel Journal Project
   - Creating Entry Component
   - Passing Props to Entry
