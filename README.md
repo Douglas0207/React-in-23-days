@@ -44,7 +44,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Passing Props to Entry
   - Rendering Multiple Entries
   
-- [ ] **April 15**
+- [x] **April 15**
   - Creating Reusable Components
   - Destructuring Props
   - Props Quiz
