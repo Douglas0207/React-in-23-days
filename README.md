@@ -50,7 +50,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Props Quiz
   - Adding a Travel Journal Entry
   
-- [ ] **April 16**
+- [x] **April 16**
   - Working with Static Assets (Images, etc.)
   - Mapping Over Arrays
   - Key Prop in Lists
