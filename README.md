@@ -56,7 +56,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Key Prop in Lists
   - Using Spread Syntax with Props
   
-- [ ] **April 17**
+- [x] **April 17**
   - Section Recap
   - Chef Claude Recipe Header
   - Starting Form Layout
