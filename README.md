@@ -61,7 +61,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Chef Claude Recipe Header
   - Starting Form Layout
   
-- [ ] **April 18**
+- [x] **April 18**
   - Adding Event Listeners
   - useState Basics
   - Setting Up State for Form Inputs
