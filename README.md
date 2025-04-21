@@ -66,7 +66,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - useState Basics
   - Setting Up State for Form Inputs
   
-- [ ] **April 19**
+- [x] **April 19**
   - Updating Arrays in State
   - Updating Objects in State
   - Controlled vs Uncontrolled Inputs
