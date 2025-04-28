@@ -71,7 +71,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Updating Objects in State
   - Controlled vs Uncontrolled Inputs
   
-- [ ] **April 20**
+- [x] **April 20**
   - Practice with Controlled Inputs
   - Conditional Rendering
   - If-Else in JSX
