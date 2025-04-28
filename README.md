@@ -76,7 +76,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Conditional Rendering
   - If-Else in JSX
   
-- [ ] **April 21**
+- [x] **April 21**
   - Passing State as Props
   - Conditional Rendering Challenge
   - SoundPad Exercise
