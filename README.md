@@ -86,7 +86,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Updating Arrays in Shared State
   - Dynamic Class Names
   
-- [ ] **April 23**
+- [x] **April 23**
   - API Calls Overview
   - useEffect Introduction
   - Final API Project Setup
