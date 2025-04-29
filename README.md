@@ -81,7 +81,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Conditional Rendering Challenge
   - SoundPad Exercise
   
-- [ ] **April 22**
+- [x] **April 22**
   - Managing Shared State
   - Updating Arrays in Shared State
   - Dynamic Class Names
