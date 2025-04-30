@@ -91,7 +91,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - useEffect Introduction
   - Final API Project Setup
   
-- [ ] **April 24**
+- [x] **April 24**
   - Building Meme Generator: Structure
   - Controlled Input for Top/Bottom Text
   - Displaying Meme Image
