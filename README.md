@@ -96,7 +96,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Controlled Input for Top/Bottom Text
   - Displaying Meme Image
   
-- [ ] **April 25**
+- [x] **April 25**
   - useEffect with Fetch API
   - Practice Fetching Memes
   - Random Meme Generator
