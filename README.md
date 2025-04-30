@@ -101,7 +101,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
   - Practice Fetching Memes
   - Random Meme Generator
   
-- [ ] **April 26**
+- [x] **April 26**
   - Tenzies Game Introduction
   - Die Component
   - Game Logic Planning
