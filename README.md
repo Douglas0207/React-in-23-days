@@ -3,7 +3,7 @@
 This is my journey through a full React course (15h 40m) from **April 10 to April 30, 2025**, with a goal to master React fundamentals and build projects.  
 🕐 **Daily Commitment**: ~1 hour per day.
 
----
+--
 
 ## ✅ Daily Progress Checklist
 
