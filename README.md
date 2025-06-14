@@ -9,7 +9,7 @@ This is my journey through a full React course (15h 40m) from **April 10 to Apri
 
 > Tick `[x]` when completed – progress is power 💪
 
---
+---
 
 ## 🗓️ Daily Progress Tracker (April 10 – April 30)
 
